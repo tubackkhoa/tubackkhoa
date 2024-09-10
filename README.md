@@ -13,15 +13,13 @@
 
 - 🔭 I’m currently a Senior Software Engineer at [Oraichain Labs](https://github.com/oraichain)
 
-- 🌱 I got a **Master's degree in Computer Science at Seattle University, Seattle, WA**
-
 - 👨‍💻 I strive for becoming a **skillful Technical Leader in developing Software products with thousands of users**
 
 - 💬 Ask me about **Typescript, NodeJs, React, Web3, Blockchain, DeFi, Coding Principles, Software Design and Optimization, Software Testing and Management**
 
-- Check out my published articles [on Medium](https://medium.com/@tubackkhoa12)!
+- Check out my published articles [on Medium](https://medium.com/@tubackkhoa)!
 
-- 📫 How to reach me **tubackkhoa12@gmail.com**
+- 📫 How to reach me **tubackkhoa@gmail.com**
 
 - ⚡ Fun facts: **I love writing clean, reusable, and testable code. I am surprisingly good and focused in stressful situations, which I found out after several on-call occasions**
 
