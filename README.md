@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack and Blockchain Engineer</h3>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Tu Pham Thanh | 💻 Software Engineer | 🛸 Vietnam, US <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Tu Pham Thanh | 💻 Software Engineer | 🛸 Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
  <h5 align="center">
@@ -34,15 +34,6 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   16 hrs 26 mins  ███████████████████▒░░░░░   77.06 %
-Go           2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-JavaScript   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-JSON         50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Rust         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-```
-
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
