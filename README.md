@@ -36,9 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   19 mins         ██████████████▓░░░░░░░░░░   58.17 %
-TOML         9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.90 %
-Rust         3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
