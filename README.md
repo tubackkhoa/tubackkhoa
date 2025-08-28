@@ -36,11 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                16 hrs 28 mins  ██████████████░░░░░░░░░░░   56.00 %
-TypeScript        5 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 %
-Java Properties   1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Python            1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Java              1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Go                16 hrs 28 mins  ████████████▓░░░░░░░░░░░░   50.60 %
+TypeScript        8 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+Java Properties   1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Python            1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Java              1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
