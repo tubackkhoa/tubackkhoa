@@ -51,4 +51,4 @@ Markdown          21 mins         █▒░░░░░░░░░░░░░�
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tubackkhoa&show_icons=true&locale=en" alt="tubackkhoa" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tubackkhoa&" alt="tubackkhoa" /></p>
+<p><img align="left" src="https://avatars.githubusercontent.com/u/5299269?v=4" alt="tubackkhoa" /></p>
