@@ -34,7 +34,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MQL   4 hrs 22 mins         █████████████████████████   100.00 %
+MQL     4 hrs 46 mins         █████████████████████████   99.93 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
